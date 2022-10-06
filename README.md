@@ -5,8 +5,3 @@
 - 📫 You can find using the links below:
 -       wairiukocyrus@gmail.com
 -       ig_account- reel_g.21-official
-
-<!---
-wairiuko-cyra/wairiuko-cyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
