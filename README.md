@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ Wairiuko-cyra.
-- 👀 I’m interested in Web development, Data science ,ML && AI.
-- 🌱 I’m currently learning Game development.
+- 👋 Hi, I’m @ Wairiuko-cyra, quite a skillful Web Developer.
+- 👀 I’m interested in Web development, full stack developer, Data Science, ML && AI.
+- 🌱 I’m currently learning UI/UX Designing.
 - 💞️ I’m looking to collaborate on development ideas within areas of specifications. 
 - 📫 You can find using the links below:
 -       wairiukocyrus@gmail.com
