@@ -5,5 +5,5 @@
 - 📫 You can find me using the links below:
 -       wairiukocyrus67@gmail.com
 -       ig_account- reel_g.21-official
--       twitter @the_wairiuko
+-       twitter _c@wairiuko
 -       Youtube handles@ Broadwave
