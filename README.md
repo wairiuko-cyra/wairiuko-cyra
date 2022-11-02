@@ -2,6 +2,8 @@
 - 👀 I’m interested in Web development, full stack developer, Data Science, ML && AI.
 - 🌱 I’m currently learning UI/UX Designing.
 - 💞️ I’m looking to collaborate on development ideas within areas of specifications. 
-- 📫 You can find using the links below:
--       wairiukocyrus@gmail.com
+- 📫 You can find me using the links below:
+-       wairiukocyrus67@gmail.com
 -       ig_account- reel_g.21-official
+-       twitter @the_wairiuko
+-       Youtube handles@ Broadwave
